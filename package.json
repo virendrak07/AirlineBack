@@ -1,0 +1,22 @@
+{
+  "name": "aviation-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC"
+}
